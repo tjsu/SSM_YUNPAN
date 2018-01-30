@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SSM_YUNPAN:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SSM_YUNPAN-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SSM_YUNPAN:war exploded" />
+    </root>
+  </artifact>
+</component>
